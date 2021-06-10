@@ -1,0 +1,99 @@
+
+ body {
+    font-family: 'Brush Script MT', cursive;
+    background-color: aqua;
+    text-align: center;
+}
+
+p {
+   
+}
+
+h2{
+
+};
+a {
+
+    text-decoration: none;
+    color: yellow;
+}
+a:hover{
+    cursor: pointer;
+    font-weight: 600;
+    color: maroon
+
+}
+a:hover:before {
+    text-decoration: none;
+  }
+
+span{
+      color: orangered;
+      font-weight: 600;
+  }
+
+.boxes{
+      margin: 2.5em;
+      padding: 0.em;
+      border: solid orchid;
+      border-radius: 6rem;
+      width: 30em;
+      display: block;
+  }
+
+#box1{
+      background-color: pink;
+  }
+
+#box2{
+      background-color: peru;
+      
+  }
+
+  #box3{
+      background-color: darkgreen
+  }
+
+  #box4{
+      background-color: crimson
+  }
+
+  .divy{
+      height: 50px;
+      width: 50px;
+      border-radius: 50px;
+      background-color: darkorange;
+  }
+
+  .original {color: hotpink;
+  }
+
+  .additional{color: gold
+  }
+
+  #show1{color: indigo;}
+
+  #show2{color: indianred;}
+
+  #show3{color: lightgoldenrodyellow;}
+
+  #show4{color: maroon;}
+
+  #show5{color: magenta;}
+
+   ul {
+       color: black;
+   }
+
+  .star {
+      color: purple;
+  }
+
+  #wars {
+      color: crimson;
+  }
+
+  .list{
+      border-width: 2px;
+      border: solid black;
+  }
